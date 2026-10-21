@@ -5,8 +5,10 @@ Digital Operations Manager at Rettungszeug (simul8) and therefore the entire IT 
 ```text
 $ whoami
 dani
+
 $ uptime
 too long to remember the last reboot
+
 $ sudo make coffee
 dani is not in the sudoers file. This incident will be reported.
 ```
