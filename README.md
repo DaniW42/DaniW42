@@ -1,6 +1,6 @@
 # Hi, I'm Dani 👋
  
-Digital Operations Manager at Rettungszeug (simul8) and therefore the entire IT department. That means I'm admin, developer, support, and the one to blame when the printer stops working.
+Digital Operations Manager at rettungszeug.com (simul8 GmbH & Co. KG) and therefore the entire IT department. That means I'm admin, developer, support, and the one to blame when the printer stops working.
  
 ```text
 $ whoami
